@@ -1,2 +1,2 @@
 # Hyx-bot
-Discord bot made in Jva
+Discord bot made in Java
